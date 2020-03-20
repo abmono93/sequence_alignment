@@ -1,7 +1,7 @@
 # sequence_alignment
 For creating optimal sequence alignments of two DNA/RNA strands
 
-compilation: g++ <filename>.cpp -o <filename> -std=c++11
+compilation: g++ (filename).cpp -o (filename) -std=c++11
 
 example session:
 
